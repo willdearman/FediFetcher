@@ -1,7 +1,7 @@
 {
   "server": "superfun.club",
   "home-timeline-length": 200,
-  "max-favourites": 15
+  "max-favourites": 15,
   "max-followings": 10,
   "max-followers": 10,
   "max-follow-requests": 10,
