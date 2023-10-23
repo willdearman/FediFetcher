@@ -6,6 +6,5 @@
   "max-followers": 10,
   "max-follow-requests": 10,
   "from-notifications": 1,
-  "backfill-with-context"
   "remember-users-for-hours": 168
 }
